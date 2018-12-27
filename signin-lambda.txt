@@ -9,8 +9,8 @@ import uuid
 import logging
 #Demo pool
 USER_POOL_ID='ca-central-1_hJvaKJM69'
-CLIENT_ID ='vb3mkuumfv8pdf7h8i9sc7ur6'
-CLIENT_SECRET='br52o2alt1s3dpu6dtle1263jr75bnhlk7ncv85qo5gjia1mdp9'
+CLIENT_ID ='vkhanxxxxxxxxxxxxf7h8i9sc7ur6' # replace urs 
+CLIENT_SECRET='bryyyyyyyyyyyyyyyyhlk7ncv85qo5gjia1mdp9'# replace urs 
 
 
 logger = logging.getLogger()
