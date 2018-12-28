@@ -6,3 +6,6 @@
 
 - https://www.youtube.com/watch?v=y_whCBFKlj0&t=4s
 - https://www.youtube.com/watch?v=IiWyPb389UU&t=10s
+
+### AWS Cognito Json Web Token Parser and Validator.
+https://github.com/rrohitramsen/aws_jwt_cognito
