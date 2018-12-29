@@ -14,3 +14,7 @@ https://github.com/rrohitramsen/aws_jwt_cognito
 - http://docs.amazonaws.cn/en_us/apigateway/latest/developerguide/apigateway-dg.pdf
 - https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf
 
+### Book
+- https://github.com/danilop/LambdAuth
+- https://github.com/danilop/AWS_Lambda_in_Action
+
