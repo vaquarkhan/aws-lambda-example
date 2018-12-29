@@ -9,3 +9,6 @@
 
 ### AWS Cognito Json Web Token Parser and Validator.
 https://github.com/rrohitramsen/aws_jwt_cognito
+
+### Doc
+- http://docs.amazonaws.cn/en_us/apigateway/latest/developerguide/apigateway-dg.pdf
