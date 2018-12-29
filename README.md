@@ -12,3 +12,5 @@ https://github.com/rrohitramsen/aws_jwt_cognito
 
 ### Doc
 - http://docs.amazonaws.cn/en_us/apigateway/latest/developerguide/apigateway-dg.pdf
+- https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf
+
